@@ -1,0 +1,24 @@
+
+
+.header {
+    background: linear-gradient(navy, skyblue);
+}
+
+
+.avatar {
+     width: 70px;
+     height: 70px;
+}
+
+
+h1 {
+    color: white;
+}
+
+.login {
+    border: 1px solid #F1F1F1;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: aliceblue;
+    height: 400px;
+}
